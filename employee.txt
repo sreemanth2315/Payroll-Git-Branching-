@@ -1,0 +1,6 @@
+Employee Registration
+
+Employee ID
+Employee Name
+Department
+Designation
