@@ -1,0 +1,6 @@
+Salary Calculation Module
+
+Basic Salary
+Allowances
+Deductions
+Net Salary
